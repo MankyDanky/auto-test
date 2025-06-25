@@ -1,0 +1,16 @@
+{
+  "name": "TestCase1",
+  "base_url": "https://www.google.com/",
+  "actions": [
+    {
+      "action_type": "Navigate",
+      "target": "/",
+      "value": ""
+    },
+    {
+      "action_type": "Input",
+      "target": "#APjFqb",
+      "value": "HELLO"
+    }
+  ]
+}

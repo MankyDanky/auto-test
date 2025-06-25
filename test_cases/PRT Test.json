@@ -1,0 +1,21 @@
+{
+  "name": "PRT Test",
+  "base_url": "https://bpmqa01.uwaterloo.ca/Primary/H/?FolderId=01H7JB9ZRNBY3MQYFM1BVH7KHY&pageName=%5BAdmin%5D+User+Management",
+  "actions": [
+    {
+      "action_type": "Navigate",
+      "target": "",
+      "value": ""
+    },
+    {
+      "action_type": "Wait",
+      "target": "",
+      "value": ""
+    },
+    {
+      "action_type": "Wait",
+      "target": "#search",
+      "value": "5"
+    }
+  ]
+}

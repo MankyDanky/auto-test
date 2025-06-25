@@ -1,0 +1,36 @@
+{
+  "name": "Google Search Example",
+  "base_url": "https://www.google.com",
+  "actions": [
+    {
+      "action_type": "Navigate",
+      "target": "/",
+      "value": ""
+    },
+    {
+      "action_type": "Input",
+      "target": "input[name='q']",
+      "value": "Selenium WebDriver"
+    },
+    {
+      "action_type": "Submit",
+      "target": "form[role='search']",
+      "value": ""
+    },
+    {
+      "action_type": "Wait",
+      "target": "#search",
+      "value": ""
+    },
+    {
+      "action_type": "Assert Element",
+      "target": "#search a",
+      "value": "true"
+    },
+    {
+      "action_type": "Screenshot",
+      "target": "",
+      "value": ""
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+"""
+UWAutoTest application package
+"""
