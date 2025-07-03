@@ -11,6 +11,16 @@
       "action_type": "Input",
       "target": "#APjFqb",
       "value": "HELLO"
+    },
+    {
+      "action_type": "Submit",
+      "target": "#APjFqb",
+      "value": ""
+    },
+    {
+      "action_type": "Submit",
+      "target": "#IDONOTEXIST",
+      "value": ""
     }
   ]
 }

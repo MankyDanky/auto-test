@@ -1,0 +1,7 @@
+{
+  "name": "suite1",
+  "tests": [
+    "Google Search Example",
+    "TestCase1"
+  ]
+}

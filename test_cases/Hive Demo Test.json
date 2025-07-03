@@ -1,0 +1,46 @@
+{
+  "name": "Hive Demo Test",
+  "base_url": "https://hive.uwaterloo.ca/",
+  "actions": [
+    {
+      "action_type": "Navigate",
+      "target": "",
+      "value": ""
+    },
+    {
+      "action_type": "Click",
+      "target": "a.wp-block-button__link.wp-element-button",
+      "value": ""
+    },
+    {
+      "action_type": "Screenshot",
+      "target": "",
+      "value": ""
+    },
+    {
+      "action_type": "Input",
+      "target": "#userNameInput",
+      "value": "a7kulshr@uwaterloo.ca"
+    },
+    {
+      "action_type": "Screenshot",
+      "target": "",
+      "value": ""
+    },
+    {
+      "action_type": "Click",
+      "target": "#nextButton",
+      "value": ""
+    },
+    {
+      "action_type": "Wait",
+      "target": "",
+      "value": "1"
+    },
+    {
+      "action_type": "Wait",
+      "target": "",
+      "value": "15"
+    }
+  ]
+}
