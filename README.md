@@ -1,4 +1,4 @@
-# UWAutoTest - Web Testing Tool
+# AutoTest - Web Testing Tool
 
 UWAutoTest is an automated website testing tool built with Python, Selenium, and Tkinter. It allows you to create, save, and run test cases for web applications without writing code.
 
